@@ -1,14 +1,24 @@
-# Run and deploy your AI Studio app
+# 📚 Prompt Engineering Tasks
 
-This contains everything you need to run your app locally.
+This repository contains tasks and experiments done during the **Prompt Engineering Training** using **Google Gemini Playground**.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
+📘 A mini AI project using Google Gemini to help students with their homework.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✅ Project Name:
+**Smart Study Buddy – Homework Helper**
+
+## 💡 What It Does:
+- Answers student homework questions
+- Uses Gemini AI for simple explanations
+- Supports science, math, and general topics
+
+## 🧪 Example Prompt:
+> Explain the water cycle in easy words.
+
+## 🎯 Tools Used:
+- Google Gemini Playground
+- GitHub for version control
+
+✅ Created by **Khushpreet Kaur**  
+🗓️ July 2025
