@@ -1,0 +1,5 @@
+{
+  "name": "Smart Study Buddy",
+  "description": "An friendly AI tutor that helps students with their homework. It provides simple, clear answers, examples for definitions, and step-by-step solutions for math problems.",
+  "requestFramePermissions": []
+}
