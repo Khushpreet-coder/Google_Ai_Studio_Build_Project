@@ -15,6 +15,10 @@ This repository contains tasks and experiments done during the **Prompt Engineer
 
 ## 🧪 Example Prompt:
 > Explain the water cycle in easy words.
+> What is network?
+> 25x25=?
+> Who is Akbar?
+> Write a code for find factorial of a number in c++.
 
 ## 🎯 Tools Used:
 - Google Gemini Playground
