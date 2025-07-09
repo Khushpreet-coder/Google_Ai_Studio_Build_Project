@@ -1,4 +1,4 @@
-# 📚 Prompt Engineering Tasks
+## 📚 Prompt Engineering Task
 
 This repository contains tasks and experiments done during the **Prompt Engineering Training** using **Google Gemini Playground**.
 
