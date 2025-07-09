@@ -1,7 +1,5 @@
 ## 📚 Prompt Engineering Task
 
-This repository contains tasks and experiments done during the **Prompt Engineering Training** using **Google Gemini Playground**.
-
 📘 A mini AI project using Google Gemini to help students with their homework.
 
 
@@ -24,5 +22,4 @@ This repository contains tasks and experiments done during the **Prompt Engineer
 - Google Gemini Playground
 - GitHub for version control
 
-✅ Created by **Khushpreet Kaur**  
-🗓️ July 2025
+
